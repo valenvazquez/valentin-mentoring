@@ -1,0 +1,10 @@
+export { isDivisibleByTen } from './isDivisibleByTen.js';
+export { kmToMile } from './kmToMile';
+export { numberOfVowels, numberOfVowelsPro } from './numberOfVowels';
+export { printEvenNumbers } from './printEvenNumbers';
+export { printMultiplicationTables } from './printMultiplicationTables';
+export { removeNegativeNumbers } from './removeNegativeNumbers';
+export { removeSpaces } from './removeSpaces';
+export { reverseArray } from './reverseArray';
+export { sortArrayAsc } from './sortArrayAsc';
+export { sumNumbersArray, sumRowOrColumn } from './sumArray';
